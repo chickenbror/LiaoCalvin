@@ -3,6 +3,7 @@
 Hi! My name is Hsien-hao/Calvin. I'm a master student at Göteborgs universitet, currently studying Master in Language Technology (masterprogram i språkteknologi).
 My primary focus is on Natural Language Processing and Machine Learning, but also dabble in frontend and interface design, particular in language-related areas.
 Beyond programming, my other interests include languages, design, and creativity.
+[CV](https://github.com/chickenbror/LiaoCalvin/blob/e6630b2a2e9f10c8e866a944391a1a5e97a718a7/Liao%20CV_EnSv.pdf)
 
 ### Recent Projects:
 #### ABC Game
